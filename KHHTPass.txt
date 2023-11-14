@@ -1,0 +1,24 @@
+STT Lớp học phần Môn học Địa điểm Ngày bắt đầu (DK)
+STT Lớp học phần Môn học Địa điểm Ngày bắt đầu (DK)
+1 202121303179OT004 Tiếng Anh Thương mại cơ bản 4 Khu A 30/05/2022
+2 202121303179023 Tiếng Anh Thương mại cơ bản 4 Khu A 07/03/2022
+3 202111303178012 Tiếng Anh Thương mại cơ bản 3 Khu A 06/09/2021
+4 202111303180007 Tiếng anh Thương mại cơ bản 5 Khu A 06/09/2021
+5 20203FL6160001 Tiếng anh Thương mại cơ bản 1 Khu A 14/06/2021
+6 202021303179OT003 Tiếng Anh Thương mại cơ bản 4 Khu A 26/04/2021
+7 202021303179008 Tiếng Anh Thương mại cơ bản 4 Khu A 11/01/2021
+8 202011303178OT004 Tiếng Anh Thương mại cơ bản 3 Khu A 23/11/2020
+9 202011303178013 Tiếng Anh Thương mại cơ bản 3 Khu A 07/09/2020
+10 201921303177008 Tiếng anh Thương mại cơ bản 2 Khu A 16/12/2019
+11 201911303176OT002 Tiếng anh Thương mại cơ bản 1 Khu C 11/11/2019
+12 201911303176008 Tiếng anh Thương mại cơ bản 1 Khu C 02/09/2019
+STT Lớp học phần Môn học Địa điểm Ngày bắt đầu (DK)
+1 20212FL6163055 Tiếng Anh Thương mại cơ bản 4 Khu C 09/02/2022
+2 20211FL6162063 Tiếng Anh Thương mại cơ bản 3 12/10/2021
+STT Lớp học phần Môn học Địa điểm Ngày bắt đầu (DK)
+1 20222FL6344015 Tiếng Anh Công nghệ thông tin 2 Khu A 06/03/2023
+2 20221FL6343021 Tiếng Anh Công nghệ thông tin 1 Khu A 14/09/2022
+3 20212FL6088021 Tiếng anh Công nghệ thông tin cơ bản 4 Khu A 07/03/2022
+4 20211FL6087020 Tiếng anh Công nghệ thông tin cơ bản 3 Khu A 06/09/2021
+5 20202FL6086007 Tiếng anh Công nghệ thông tin cơ bản 2 Khu C 01/02/2021
+6 20201FL6085006 Tiếng anh Công nghệ thông tin cơ bản 1 Khu C 19/10/2020

@@ -1,0 +1,31 @@
+STT Thời gian thi Môn thi Mã dự thi Địa điểm thi
+1 13h30 21/10/2022 Tiếng Anh Công nghệ thông tin 1-FL6343 223D3C
+2 13h30 04/10/2022 Tiếng Anh Công nghệ thông tin 1-FL6343 27RCV9
+3 08h00 22/04/2022 Tiếng anh Công nghệ thông tin cơ bản 4(Giữa kỳ * Tự luận)-FL6088 26UTEB
+4 17h30 25/11/2021 Tiếng anh Công nghệ thông tin cơ bản 3(Cuối kỳ * Tự luận)-FL6087 745684
+5 08h30 24/10/2021 Tiếng anh Công nghệ thông tin cơ bản 3(Giữa kỳ * Tự luận)-FL6087 13PCVX
+6 08h30 10/10/2021 Tiếng anh Công nghệ thông tin cơ bản 3(Thường xuyên 1 * Tự luận)-FL6087 1761GM
+STT Thời gian thi Môn thi Mã dự thi Địa điểm thi
+1 13h30 22/04/2023 Tiếng Anh Công nghệ thông tin 2 (Giữa kỳ * Tự luận)-FL6344 333H6D
+2 13h30 29/03/2023 Tiếng Anh Công nghệ thông tin 2 (Thường xuyên 1 * Tự luận)-FL6344 3773D0
+3 08h00 22/10/2022 Tiếng Anh Công nghệ thông tin 1-FL6343 224Y30
+4 08h00 05/10/2022 Tiếng Anh Công nghệ thông tin 1-FL6343 27USNF
+5 08h00 22/04/2022 Tiếng anh Công nghệ thông tin cơ bản 4(Giữa kỳ * Tự luận)-FL6088 26V37M
+6 17h30 25/11/2021 Tiếng anh Công nghệ thông tin cơ bản 3(Cuối kỳ * Tự luận)-FL6087 745690
+7 08h30 24/10/2021 Tiếng anh Công nghệ thông tin cơ bản 3(Giữa kỳ * Tự luận)-FL6087 13RHD8
+8 08h30 10/10/2021 Tiếng anh Công nghệ thông tin cơ bản 3(Thường xuyên 1 * Tự luận)-FL6087 17863Z
+STT Thời gian thi Môn thi Mã dự thi Địa điểm thi
+1 10h00 21/10/2022 Tiếng Anh Công nghệ thông tin 1-FL6343 22339Y
+2 10h00 04/10/2022 Tiếng Anh Công nghệ thông tin 1-FL6343 27SXVD
+3 11h00 06/08/2022 Tiếng anh Công nghệ thông tin cơ bản 4(Giữa kỳ * Tự luận)-FL6088 2569RT
+4 10h00 06/08/2022 Tiếng anh Công nghệ thông tin cơ bản 4(Giữa kỳ * Tự luận)-FL6088 252N6M
+5 10h00 23/07/2022 Tiếng anh Công nghệ thông tin cơ bản 4(Thường xuyên 1 * Tự luận)-FL6088 23MTT3
+6 17h30 28/02/2022 Tiếng Anh CNTT cơ bản 2 (Cuối kỳ-Tự luận-Trắc nghiệm Viết)-FL6086 951298
+7 10h15 10/02/2022 Tiếng Anh CNTT cơ bản 2 (Giữa kỳ-Tự luận-Trắc nghiệm Viết)- 20BXV0
+8 19h30 07/02/2022 Tiếng anh Công nghệ thông tin cơ bản 2(Thường xuyên 1)-FL6086 20RVUP
+9 19h30 24/01/2022 Tiếng Anh CNTT cơ bản 2 (Thường xuyên 1-Tự luận)- 2056GN
+10 08h30 23/01/2022 Tiếng anh Công nghệ thông tin cơ bản 2(Thường xuyên 1)-FL6086 28FTSF
+11 17h30 25/11/2021 Tiếng anh Công nghệ thông tin cơ bản 3(Cuối kỳ * Tự luận)-FL6087 745710
+12 17h00 09/11/2021 Tiếng Anh Điện - Điện tử cơ bản 3(Giữa kỳ)-FL6132 13DC3F
+13 08h30 24/10/2021 Tiếng anh Công nghệ thông tin cơ bản 3(Giữa kỳ * Tự luận)-FL6087 13QA8E
+14 08h30 10/10/2021 Tiếng anh Công nghệ thông tin cơ bản 3(Thường xuyên 1 * Tự luận)-FL6087 176YY4

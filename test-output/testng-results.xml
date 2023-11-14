@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-27T08:18:24 ICT" name="Default suite" finished-at="2023-06-27T08:18:50 ICT" duration-ms="25074">
+    <groups>
+    </groups>
+    <test started-at="2023-06-27T08:18:24 ICT" name="Default test" finished-at="2023-06-27T08:18:50 ICT" duration-ms="25074">
+      <class name="cookieTesting.cookieTesting">
+        <test-method is-config="true" signature="add()[pri:0, instance:cookieTesting.cookieTesting@52c3cb31]" started-at="2023-06-27T08:18:24 ICT" name="add" finished-at="2023-06-27T08:18:29 ICT" duration-ms="4978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method signature="addCookie()[pri:0, instance:cookieTesting.cookieTesting@52c3cb31]" started-at="2023-06-27T08:18:29 ICT" name="addCookie" finished-at="2023-06-27T08:18:31 ICT" duration-ms="1140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCookie -->
+        <test-method is-config="true" signature="close()[pri:0, instance:cookieTesting.cookieTesting@52c3cb31]" started-at="2023-06-27T08:18:31 ICT" name="close" finished-at="2023-06-27T08:18:31 ICT" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="add()[pri:0, instance:cookieTesting.cookieTesting@52c3cb31]" started-at="2023-06-27T08:18:31 ICT" name="add" finished-at="2023-06-27T08:18:35 ICT" duration-ms="4226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method signature="cookieLifeTime()[pri:0, instance:cookieTesting.cookieTesting@52c3cb31]" started-at="2023-06-27T08:18:35 ICT" name="cookieLifeTime" finished-at="2023-06-27T08:18:36 ICT" duration-ms="494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookieLifeTime -->
+        <test-method is-config="true" signature="close()[pri:0, instance:cookieTesting.cookieTesting@52c3cb31]" started-at="2023-06-27T08:18:36 ICT" name="close" finished-at="2023-06-27T08:18:36 ICT" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="add()[pri:0, instance:cookieTesting.cookieTesting@52c3cb31]" started-at="2023-06-27T08:18:36 ICT" name="add" finished-at="2023-06-27T08:18:39 ICT" duration-ms="2896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method signature="deleteCookie()[pri:0, instance:cookieTesting.cookieTesting@52c3cb31]" started-at="2023-06-27T08:18:39 ICT" name="deleteCookie" finished-at="2023-06-27T08:18:40 ICT" duration-ms="815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookie -->
+        <test-method is-config="true" signature="close()[pri:0, instance:cookieTesting.cookieTesting@52c3cb31]" started-at="2023-06-27T08:18:40 ICT" name="close" finished-at="2023-06-27T08:18:40 ICT" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="add()[pri:0, instance:cookieTesting.cookieTesting@52c3cb31]" started-at="2023-06-27T08:18:40 ICT" name="add" finished-at="2023-06-27T08:18:44 ICT" duration-ms="3932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method signature="secureCheck()[pri:0, instance:cookieTesting.cookieTesting@52c3cb31]" started-at="2023-06-27T08:18:44 ICT" name="secureCheck" finished-at="2023-06-27T08:18:45 ICT" duration-ms="970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secureCheck -->
+        <test-method is-config="true" signature="close()[pri:0, instance:cookieTesting.cookieTesting@52c3cb31]" started-at="2023-06-27T08:18:45 ICT" name="close" finished-at="2023-06-27T08:18:45 ICT" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="add()[pri:0, instance:cookieTesting.cookieTesting@52c3cb31]" started-at="2023-06-27T08:18:45 ICT" name="add" finished-at="2023-06-27T08:18:48 ICT" duration-ms="3629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method signature="useCookie()[pri:0, instance:cookieTesting.cookieTesting@52c3cb31]" started-at="2023-06-27T08:18:48 ICT" name="useCookie" finished-at="2023-06-27T08:18:49 ICT" duration-ms="878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- useCookie -->
+        <test-method is-config="true" signature="close()[pri:0, instance:cookieTesting.cookieTesting@52c3cb31]" started-at="2023-06-27T08:18:49 ICT" name="close" finished-at="2023-06-27T08:18:50 ICT" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- cookieTesting.cookieTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
